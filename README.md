@@ -1,6 +1,10 @@
 __Simple set of scripts to synthesise single words (or non-words)
 from a .txt file, and save them as .wav files__
 
+The underlying synthesiser is built into MacOS. A list of available voices is included in "available_macosx_voices.txt"; or, you can type `say -v '?'` in terminal for this information.
+
+The speech rate is in words per minute (wpm). Average speech rate is 200 wpm.
+
 _Example:_
 
 ```python
