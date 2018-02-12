@@ -1,7 +1,7 @@
 __Simple set of scripts to synthesise single words (or non-words)
 from a .txt file, and save them as .wav files__
 
-__ Example: __
+_Example:_
 
 ```python
 # modules
